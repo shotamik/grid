@@ -53,3 +53,35 @@
 .ho {
     height: 111px;
 }
+
+.item-1 {
+    grid-row-start: 1;
+    grid-row-end: 3;
+    height: 220px;
+}
+
+.item-3 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
+.item-7 {
+    grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    height: 220px;
+}
+.item-10 {
+    grid-row-start: 3;
+    grid-row-end: 5;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    height: 220px;
+}
+
+.item-14 {
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
